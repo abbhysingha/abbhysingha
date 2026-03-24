@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+Hi there! 👋
+I’m Abhi, a passionate programmer and problem solver with a strong interest in **Computer Science** and **Cyber Security**.
+
+💻 I have experience with Python, C, C++, Java, C#, and Bash
+🧠 I enjoy solving problems and building strong logical thinking through coding
+🔭 I’m currently working on improving my programming skills and exploring system-level concepts
+🤝 I’m open to collaborating on coding and security-related projects
+🌱 I’m continuously learning data structures, algorithms, networking, and Python for security
+💬 Ask me about programming, problem solving, and CS fundamentals
+⚡ Fun fact: I love turning complex problems into simple and efficient solutions
+
+I’m focused on building strong fundamentals and growing into a skilled developer and security professional 🚀
+
 
 
 ## 🌐 Socials:
